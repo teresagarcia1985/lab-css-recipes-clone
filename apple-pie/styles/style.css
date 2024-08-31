@@ -34,9 +34,8 @@ body {
 /* STYLES */
 /* Write your CSS below */
 #applepie {
-  height: 400px;
-  width: 800px;
   background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
 }
 #applepie h1 {
   padding: 200px;
